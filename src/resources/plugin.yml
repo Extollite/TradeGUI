@@ -1,0 +1,18 @@
+name: TradeGUI
+main: pl.extollite.tradegui.TradeGUI
+version: "${pom.version}"
+api: ["1.0.9"]
+load: POSTWORLD
+authors: ["Extollite"]
+description: Nukkit trade gui plugin
+prefix: "TradeGUI"
+depend:
+  - FakeInventories
+
+permissions:
+  tradegui.command:
+    description: "trade gui command permission"
+    default: op
+
+
+

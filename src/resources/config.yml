@@ -1,0 +1,8 @@
+prefix: "§6[TradeGUI]§f "
+from-title: "From:"
+to-title: "To:"
+noItem: "You need %count% of %name% in inventory!"
+accept: "Accept"
+decline: "Decline"
+success: "Successfully traded!"
+dieAfter: 300
